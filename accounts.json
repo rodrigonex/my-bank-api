@@ -1,0 +1,15 @@
+{
+  "nextId": 3,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Graciana de Fatima",
+      "balance": 1050
+    },
+    {
+      "id": 2,
+      "name": "Graciana de Fatima sdfsf",
+      "balance": 1050
+    }
+  ]
+}
